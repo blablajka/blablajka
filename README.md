@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+# Introduction
+I'm 19 years old Rust/C++ enjoyer 
 <!--
 **blablajka/blablajka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
